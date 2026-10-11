@@ -109,7 +109,5 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=izalfaamjadd&icon=0&color=4" />
 </p> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izalfaamjadd&label=PROFILE+VIEWS&color=E5243B&style=flat" alt="Profile Views" />
-</p>
+
 <p align="center">Made with ❤️ by <a href="https://github.com/izalfaamjadd">Izalfa</a></p>
