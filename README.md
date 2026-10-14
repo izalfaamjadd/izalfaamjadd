@@ -81,9 +81,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman.svg">
+    <img src="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman-dark.svg" alt="Pacman Contribution Graph">
   </picture>
 </p>
 <!-- here -->
