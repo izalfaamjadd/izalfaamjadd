@@ -77,7 +77,7 @@
   </picture>
 </p> -->
 
-<h2 align="center">⌘ Commit Activity</h2>
+<!-- <h2 align="center">⌘ Commit Activity</h2>
 
 <p align="center">
   <picture>
@@ -85,7 +85,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman.svg">
     <img src="https://raw.githubusercontent.com/izalfaamjadd/izalfaamjadd/output/pacman-dark.svg" alt="Pacman Contribution Graph">
   </picture>
-</p> 
+</p>  -->
 <!-- here -->
 <!-- <h2 align="center">Commit Activity</h2>
 
