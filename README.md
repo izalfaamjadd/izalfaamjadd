@@ -34,12 +34,12 @@
 
 | | |
 |---|---|
-| 🦋 **Who I am** | I love building fun side projects and exploring creative ideas |
-| 🎨 **Outside tech** | Painting, and always happy to connect with fellow artists |
-| 🤝 **Open to** | Collaborating, so hit me up |
-| 💻 **Tech** | C++ • JavaScript • TypeScript • React • Next.js • Vue • Node |
-| ❤️ **Love to** | Code • Paint • Create |
-| 💬 **Motto** | *"Without art, reality is unbearable."* |
+| ʚଓ **Who I am** | I love building fun side projects and exploring creative ideas |
+| ☕︎.⋆ **Outside tech** | Painting, and always happy to connect with fellow artists |
+| ★ **Open to** | Collaborating, so hit me up |
+| </> **Tech** | C++ • JavaScript • TypeScript • React • Next.js • Vue • Node |
+| ♡ **Love to** | Code • Paint • Create |
+| ✧˖° **Motto** | *"Without art, reality is unbearable."* |
 
 </td>
 <td align="center" valign="middle">
