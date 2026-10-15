@@ -10,7 +10,7 @@
 <h1 align="center">🦋 Hi, I'm <a href="https://github.com/izalfaamjadd">Izalfa</a>! 🦋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E5243B&center=true&vCenter=true&width=520&height=44&lines=I+build+fun+side+projects;I+love+to+paint;Code+%2B+Paint+%2B+Create" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E5243B&center=true&vCenter=true&width=520&height=44&lines=I+do+open+source+◡̈;code+in+the+pen.;breaking+things+in+public+since+day+one.." alt="Typing intro" />
 </p>
 
 <p align="center">
