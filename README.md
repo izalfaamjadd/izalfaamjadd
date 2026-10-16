@@ -126,10 +126,13 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izalfaamjadd&theme=github_dark" />
 </p> -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=izalfaamjadd&label=Profile%20views&color=9F1C37&style=round" alt="izalfaamjadd" />
+</p>
 
-
+![WakaTime](./profile/wakatime.svg)
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=izalfaamjadd&icon=0&color=4" />
-</p> -->
+</p> --->
 
 <p align="center">Made with 💕 by <a href="https://github.com/izalfaamjadd">Izalfa</a></p>
