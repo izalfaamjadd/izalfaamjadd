@@ -2,12 +2,12 @@
   CHARACTER ART: ascii-about / ascii-row / ascii-big are animated SVG
   versions of your ASCII art files in /assets.
 ===================================================================== -->
-
+ 
 <p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Terminal: Hey, Izalfa" />
 </p>
 
-<h1 align="center">🦋 Hi, I'm <a href="https://github.com/izalfaamjadd">Izalfa</a>! 🦋</h1>
+<h1 align="center">🦋hi, i'm <a href="https://github.com/izalfaamjadd">izalfa</a>!🦋</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E5243B&center=true&vCenter=true&width=600&height=44&lines=I+do+open+source+%E2%9F%9D%C2%A8;code+in+the+pen.;breaking+things+in+public+since+day+one.." alt="Typing intro" />
