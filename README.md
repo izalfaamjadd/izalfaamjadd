@@ -1,7 +1,4 @@
- <!-- ====================================================================
-  CHARACTER ART: ascii-about / ascii-row / ascii-big are animated SVG
-  versions of your ASCII art files in /assets.
-===================================================================== -->
+
  
 <p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Terminal: Hey, Izalfa" />
