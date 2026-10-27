@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal: Hey, Izalfa" />
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: Hey, Izalfa" /> -
 </p>
 
 <h1 align="center">🦋hi, i'm <a href="https://github.com/izalfaamjadd">izalfa</a>!🦋</h1>
