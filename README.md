@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center"> 
   <img src="./assets/terminal.svg" width="100%" alt="Terminal: Hey, Izalfa" /> -
 </p>
 
